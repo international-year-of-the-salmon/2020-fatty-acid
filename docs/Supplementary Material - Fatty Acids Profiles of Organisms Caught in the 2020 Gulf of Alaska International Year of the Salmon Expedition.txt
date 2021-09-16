@@ -1,0 +1,7 @@
+Fatty Acid Profile Data Collection and Processing Protocols from the 2020 Gulf of Alaska International Year of the Salmon Expedition
+
+Food Web Biogeochemistry:
+Sample collection included (all samples will be stored frozen at UBC until the time of analysis):
+	1. Particulate Organic Matter (POM) – collected at the sea surface using a Niskin rosette at every station.
+	2. Zooplankton – collected using a Bongo net hauled through the upper 250 m of the water column. Samples were split into size fractions and the largest size fraction (> 4 mm) spilt into species. A selection of samples were stored at -80C, which is suitable for fatty acid analysis.
+	3. Trawl salmon and bycatch – representative samples of all species in the trawl catch were collected at every station during the survey. A selection of samples were stored at -20C, which is suitable for fatty acid analysis.
